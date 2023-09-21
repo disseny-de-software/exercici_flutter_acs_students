@@ -95,4 +95,17 @@ class Data {
   static List<String> defaultActions = ["open", "close"];
   static String defaultName = "new group";
   static String defaultDescription = "";
+
+  static Map<String, String> images = {
+    'ana' : 'https://transfer.sh/fHSUhHnogj/ana.png',
+    'aureli' : 'https://transfer.sh/5oUVxyin3T/aureli.png',
+    'manel' : 'https://transfer.sh/CLhWi6H5TY/manel.png',
+    'miquel' : 'https://transfer.sh/mer0KhF4kL/miquel.png',
+    'maria' : 'https://transfer.sh/cCegYbdPzu/maria.png',
+    'maure' : 'https://transfer.sh/PyjqefRiuM/maure.png',
+    'eva' : 'https://transfer.sh/l2cAKJOCqh/eva.png',
+    'eulalia' : 'https://transfer.sh/kk8IMTaSr1/eulalia.png',
+    'esteve' : 'https://transfer.sh/JGwt0DnowI/esteve.png',
+  };
+// curl -H "Max-Days: 180" --upload-file ./esteve.png https://transfer.sh/esteve.png
 }
