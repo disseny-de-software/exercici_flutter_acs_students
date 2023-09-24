@@ -106,6 +106,7 @@ class Data {
     'eva' : 'https://transfer.sh/l2cAKJOCqh/eva.png',
     'eulalia' : 'https://transfer.sh/kk8IMTaSr1/eulalia.png',
     'esteve' : 'https://transfer.sh/JGwt0DnowI/esteve.png',
+    'new user': 'https://transfer.sh/UY5Hl1N31T/new_user.png',
   };
 // curl -H "Max-Days: 180" --upload-file ./esteve.png https://transfer.sh/esteve.png
 }
