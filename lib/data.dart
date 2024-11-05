@@ -97,16 +97,15 @@ class Data {
   static String defaultDescription = "";
 
   static Map<String, String> images = {
-    'ana': 'https://transfer.sh/3iRwt5NrxB/ana.png',
-    'aureli': 'https://transfer.sh/uJmCCYfIyo/aureli.png',
-    'manel': 'https://transfer.sh/YjyToAcXBi/manel.png',
-    'miquel': 'https://transfer.sh/e9gG26vGwA/miquel.png',
-    'maria': 'https://transfer.sh/Rvr7QdRhFg/maria.png',
-    'maure': 'https://transfer.sh/HtdTNmOoxY/maure.png',
-    'eva': 'https://transfer.sh/odY7j2jvQS/eva.png',
-    'eulalia': 'https://transfer.sh/1RBiljKI8T/eulalia.png',
-    'esteve': 'https://transfer.sh/waTqvGuqyr/esteve.png',
-    'new user': 'https://transfer.sh/xQ9fjTdhAK/new_user.png',
+    'ana' : 'faces/ana.png',
+    'aureli' : 'faces/aureli.png',
+    'manel' : 'faces/manel.png',
+    'miquel' : 'faces/miquel.png',
+    'maria' : 'faces/maria.png',
+    'maure' : 'faces/maure.png',
+    'eva' : 'faces/eva.png',
+    'eulalia' : 'faces/eulalia.png',
+    'esteve' : 'faces/esteve.png',
+    'new user': 'faces/new_user.png',
   };
-  // curl -H "Max-Days: 180" --upload-file ./esteve.png https://transfer.sh/esteve.png
 }
